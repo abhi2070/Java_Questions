@@ -1,4 +1,4 @@
-package KKPracticeSet.FirstJava02;
+//To find Armstrong Number between two given number.
 
 import java.lang.Math;
 import java.util.Scanner;
