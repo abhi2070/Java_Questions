@@ -1,4 +1,4 @@
-package KKPracticeSet.FirstJava02;
+//To find out whether the given number is Palindrome or not.
 
 import java.util.Scanner;
 public class Palindrome {
