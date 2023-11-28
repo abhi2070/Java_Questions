@@ -1,4 +1,4 @@
-package KKPracticeSet.ConditionalLoop03;
+//Calculate Electricity Bill
 
 import java.util.Scanner;
 public class ElectricityBill {
