@@ -1,4 +1,4 @@
-package KKPracticeSet.FirstJava02;
+//Input currency in rupees and output in USD.
 
 import java.util.Scanner;
 public class Currencyconverter {
