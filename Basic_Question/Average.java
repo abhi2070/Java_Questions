@@ -1,4 +1,4 @@
-package KKPracticeSet.ConditionalLoop03;
+//Calculate Average Of N Numbers
 
 import java.util.Scanner;
 public class Average {
