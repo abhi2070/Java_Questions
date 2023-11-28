@@ -1,4 +1,3 @@
-package KKPracticeSet.FlowOfProgram01;
 //Input a year and find whether it is a leap year or not.
 import java.util.Scanner;
 public class LeapYear {
@@ -14,7 +13,7 @@ public class LeapYear {
         }else if(year%4 == 0){
             System.out.println("it is a leap year !!");
         }else{
-            System.out.println("sorry but the netered year is not a leap year!!");
+            System.out.println("sorry but the entered year is not a leap year!!");
         }
         
         
