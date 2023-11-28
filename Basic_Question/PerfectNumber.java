@@ -1,4 +1,4 @@
-package KKPracticeSet.ConditionalLoop03;
+//Perfect Number In Java
 
 import java.util.Scanner;
 public class PerfectNumber {
