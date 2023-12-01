@@ -1,4 +1,3 @@
-package KKPracticeSet.Searching;
 
 import java.util.Arrays;
 
