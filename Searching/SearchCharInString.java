@@ -1,4 +1,4 @@
-package KKPracticeSet.Searching;
+
 
 public class SearchCharInString {
     public static void main(String[] args) {
