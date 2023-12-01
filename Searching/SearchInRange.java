@@ -1,4 +1,3 @@
-package KKPracticeSet.Searching;
 
 public class SearchInRange {
     public static void main(String[] args) {
