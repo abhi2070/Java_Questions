@@ -1,4 +1,4 @@
-package KKPracticeSet.Searching;
+
 //You have given a set of numbers. you have to find how many numbers are even in it by their digits.
 public class EvenNumberInArray {
     public static void main(String[] args) {
