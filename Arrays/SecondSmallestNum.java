@@ -1,4 +1,3 @@
-package KKPracticeSet.Arrays;
 
 public class SecondSmallestNum {
     public static void main(String[] args) {
