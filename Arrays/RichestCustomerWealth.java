@@ -1,4 +1,3 @@
-package KKPracticeSet.Arrays;
 //https://leetcode.com/problems/richest-customer-wealth/description/
 /**
  *You are given an m x n integer grid accounts where accounts[i][j] is the 
