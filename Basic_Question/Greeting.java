@@ -1,4 +1,3 @@
-package KKPracticeSet.FirstJava02;
 
 import java.util.Scanner;
 public class Greeting {
