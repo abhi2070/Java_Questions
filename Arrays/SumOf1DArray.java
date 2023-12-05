@@ -1,4 +1,3 @@
-package KKPracticeSet.Arrays;
 //https://leetcode.com/problems/running-sum-of-1d-array/description/
 /**
  * Given an array nums. We define a running sum of an array as 
