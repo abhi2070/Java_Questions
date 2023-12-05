@@ -1,4 +1,4 @@
-package KKPracticeSet.Searching;
+
 //https://leetcode.com/problems/guess-number-higher-or-lower/description/
 /**
  *We are playing the Guess Game. The game is as follows:
