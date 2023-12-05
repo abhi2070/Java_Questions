@@ -1,4 +1,4 @@
-package KKPracticeSet.ConditionalLoop03;
+
 import java.lang.Math;
 class Circle{
     int rad;
