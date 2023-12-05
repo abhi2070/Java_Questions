@@ -1,4 +1,4 @@
-package KKPracticeSet.Searching;
+
 //https://leetcode.com/problems/first-bad-version/description/
 /**
  *You are a product manager and currently leading a team to develop a new product.
