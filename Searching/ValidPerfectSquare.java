@@ -1,4 +1,4 @@
-package KKPracticeSet.Searching;
+
 //https://leetcode.com/problems/valid-perfect-square/description/
 /**
  *Given a positive integer num, return true if num is a perfect square or false otherwise.
