@@ -1,4 +1,3 @@
-package KKPracticeSet.Sorting;
 
 import java.util.Arrays;
 public class CyclicShort {
