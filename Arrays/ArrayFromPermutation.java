@@ -1,4 +1,3 @@
-package KKPracticeSet.Arrays;
 //https://leetcode.com/problems/build-array-from-permutation/description/
 /**
  * Given a zero-based permutation nums (0-indexed), build an array ans of the 
