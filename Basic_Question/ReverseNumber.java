@@ -1,4 +1,3 @@
-package KKPracticeSet.FlowOfProgram01;
 
 public class ReverseNumber {
     public static void main(String[] args) {
