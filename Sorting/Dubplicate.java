@@ -1,4 +1,5 @@
-package KKPracticeSet.Sorting;
+//https://leetcode.com/problems/contains-duplicate/description/
+
 
 import java.util.Arrays;
 public class Dubplicate {
