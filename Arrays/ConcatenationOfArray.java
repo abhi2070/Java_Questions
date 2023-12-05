@@ -1,4 +1,3 @@
-package KKPracticeSet.Arrays;
 //https://leetcode.com/problems/concatenation-of-array/description/
 /**
  * Given an integer array nums of length n, you want to create an array ans of 
