@@ -1,4 +1,4 @@
-package KKPracticeSet.String;
+
 //https://leetcode.com/problems/goal-parser-interpretation/description/
 /**
  *You own a Goal Parser that can interpret a string command. The command 
