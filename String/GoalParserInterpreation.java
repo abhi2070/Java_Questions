@@ -1,4 +1,3 @@
-
 //https://leetcode.com/problems/goal-parser-interpretation/description/
 /**
  *You own a Goal Parser that can interpret a string command. The command 
@@ -7,7 +6,6 @@
  * and "(al)" as the string "al". The interpreted strings are then concatenated 
  * in the original order.
     Given the string command, return the Goal Parser's interpretation of command.
-    * 
     * Example 1:
     Input: command = "G()(al)"
     Output: "Goal"
