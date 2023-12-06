@@ -1,6 +1,4 @@
-
 import java.util.Arrays;
-
 public class Mismatch {
     public static void main(String[] args) {
         int[] arr={4,2,2,1};
