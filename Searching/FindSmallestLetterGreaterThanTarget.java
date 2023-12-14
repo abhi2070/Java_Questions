@@ -1,4 +1,3 @@
-package KKPracticeSet.Searching;
 //https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/
 /**
  *You are given an array of characters letters that is sorted in non-decreasing 
