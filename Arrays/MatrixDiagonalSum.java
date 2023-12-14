@@ -1,4 +1,3 @@
-package KKPracticeSet.Arrays;
 //https://leetcode.com/problems/matrix-diagonal-sum/description/
 /**
  *Given a square matrix mat, return the sum of the matrix diagonals.
