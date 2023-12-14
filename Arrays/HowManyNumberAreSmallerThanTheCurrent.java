@@ -1,4 +1,3 @@
-package KKPracticeSet.Arrays;
 //https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 /**
  *Given the array nums, for each nums[i] find out how many numbers in the array 
