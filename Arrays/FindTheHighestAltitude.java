@@ -1,5 +1,3 @@
-
-package KKPracticeSet.Arrays;
 //https://leetcode.com/problems/find-the-highest-altitude/description/
 /**
  *There is a biker going on a road trip. The road trip consists of n + 1 points 
