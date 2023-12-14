@@ -1,4 +1,3 @@
-package KKPracticeSet.Searching;
 //https://leetcode.com/problems/arranging-coins/description/
 /**
  *You have n coins and you want to build a staircase with these coins. 
