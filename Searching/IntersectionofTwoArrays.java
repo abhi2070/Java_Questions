@@ -1,4 +1,3 @@
-package KKPracticeSet.Searching;
 //https://leetcode.com/problems/intersection-of-two-arrays/description/
 
 import java.util.ArrayList;
