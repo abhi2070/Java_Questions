@@ -1,4 +1,3 @@
-package KKPracticeSet.Searching;
 //https://leetcode.com/problems/search-insert-position/description/
 /**
  *Given a sorted array of distinct integers and a target value, return the index 
