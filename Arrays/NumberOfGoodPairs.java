@@ -1,4 +1,3 @@
-package KKPracticeSet.Arrays;
 //https://leetcode.com/problems/number-of-good-pairs/description/
 /**
  *Given an array of integers nums, return the number of good pairs.
