@@ -1,4 +1,3 @@
-package KKPracticeSet.Searching;
 //https://leetcode.com/problems/kth-missing-positive-number/description/
 
 import java.util.ArrayList;
