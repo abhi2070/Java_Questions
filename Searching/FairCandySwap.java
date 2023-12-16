@@ -1,4 +1,3 @@
-package KKPracticeSet.Searching;
 //https://leetcode.com/problems/fair-candy-swap/description/
 /**
  *Alice and Bob have a different total number of candies. You are given two 
