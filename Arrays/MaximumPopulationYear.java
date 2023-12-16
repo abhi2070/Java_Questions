@@ -1,4 +1,3 @@
-package KKPracticeSet.Arrays;
 //https://leetcode.com/problems/maximum-population-year/description/
 /**
  *You are given a 2D integer array logs where each logs[i] = [birthi, deathi] 
