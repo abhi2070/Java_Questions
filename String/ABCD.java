@@ -1,4 +1,3 @@
-package KKPracticeSet.String;
 //program to write alphabets
 /**
  * This is also a case where we should not use string as a data type because of space and it is also 
