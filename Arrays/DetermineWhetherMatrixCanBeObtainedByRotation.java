@@ -1,4 +1,3 @@
-package KKPracticeSet.Arrays;
 //https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/description/
 /**
  *Given two n x n binary matrices mat and target, return true if it is possible
