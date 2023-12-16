@@ -1,4 +1,3 @@
-package KKPracticeSet.Searching;
 //https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/
 /**
  *You are given an array nums of non-negative integers. nums is considered 
