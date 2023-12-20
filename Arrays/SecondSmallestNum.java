@@ -1,4 +1,3 @@
-
 public class SecondSmallestNum {
     public static void main(String[] args) {
         int[] arr={5,6,3,2,9,1,123};
