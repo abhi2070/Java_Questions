@@ -1,4 +1,3 @@
-package KKPracticeSet.Sorting;
 //https://leetcode.com/problems/squares-of-a-sorted-array/description/
 
 import java.util.Arrays;
