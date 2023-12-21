@@ -1,4 +1,3 @@
-package KKPracticeSet.Sorting;
 //https://leetcode.com/problems/sort-array-by-parity-ii/description/
 /**
  *Given an array of integers nums, half of the integers in nums are odd, and the other half are even.
