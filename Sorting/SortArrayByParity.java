@@ -1,4 +1,3 @@
-package KKPracticeSet.Sorting;
 //https://leetcode.com/problems/sort-array-by-parity/description/
 
 import java.util.Arrays;
