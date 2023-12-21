@@ -1,4 +1,3 @@
-package KKPracticeSet.Sorting;
 //https://leetcode.com/problems/third-maximum-number/description/
 
 import java.util.Arrays;
