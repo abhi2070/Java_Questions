@@ -1,4 +1,3 @@
-package KKPracticeSet.Sorting;
 //https://leetcode.com/problems/assign-cookies/description/
 
 import java.util.Arrays;
