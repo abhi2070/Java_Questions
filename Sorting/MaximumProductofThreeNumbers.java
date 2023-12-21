@@ -1,4 +1,3 @@
-package KKPracticeSet.Sorting;
 //https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 import java.util.Arrays;
 
