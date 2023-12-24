@@ -1,0 +1,58 @@
+package KKPracticeSet.Sorting;
+//https://leetcode.com/problems/height-checker/description/
+/**
+ *A school is trying to take an annual photo of all the students. The students are 
+ * asked to stand in a single file line in non-decreasing order by height. Let this 
+ * ordering be represented by the integer array expected where expected[i] is the 
+ * expected height of the ith student in line.
+
+You are given an integer array heights representing the current order that the 
+students are standing in. Each heights[i] is the height of the ith student in line (0-indexed).
+
+Return the number of indices where heights[i] != expected[i].
+Example 1:
+
+    Input: heights = [1,1,4,2,1,3]
+    Output: 3
+    Explanation: 
+    heights:  [1,1,4,2,1,3]
+    expected: [1,1,1,2,3,4]
+    Indices 2, 4, and 5 do not match.
+ */
+public class HeightChecker {
+    public static void main(String[] args) {
+        
+    }
+     public int heightChecker(int[] hei) {
+        int[] org=new int[hei.length];
+        for(int i=0; i<hei.length; i++){
+            org[i]=hei[i];
+        }
+
+        int count=0;
+        boolean swap;
+        
+        for (int i=0; i<hei.length; i++) {
+            swap=false;
+            for (int j=1; j<hei.length; j++) {
+                if (hei[j]<hei[j-1]) {
+                    //swaping
+                    int temp=hei[j];
+                    hei[j]=hei[j-1];
+                    hei[j-1]=temp;
+                    swap=true;
+                }
+            }
+            if (!swap) {
+                break;
+            }
+        }    
+
+        for(int i=0; i<hei.length; i++){
+            if(org[i] != hei[i]){
+                count++;
+            }
+        }
+        return count;
+    }
+}
