@@ -1,4 +1,3 @@
-package KKPracticeSet.Sorting;
 //https://leetcode.com/problems/height-checker/description/
 /**
  *A school is trying to take an annual photo of all the students. The students are 
