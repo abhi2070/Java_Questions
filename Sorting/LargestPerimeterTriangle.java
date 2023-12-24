@@ -1,4 +1,3 @@
-package KKPracticeSet.Sorting;
 //https://leetcode.com/problems/largest-perimeter-triangle/description/
 
 import java.util.Arrays;
