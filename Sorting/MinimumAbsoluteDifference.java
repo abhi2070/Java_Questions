@@ -1,4 +1,3 @@
-package KKPracticeSet.Sorting;
 //https://leetcode.com/problems/minimum-absolute-difference/description/
 
 import java.util.ArrayList;
