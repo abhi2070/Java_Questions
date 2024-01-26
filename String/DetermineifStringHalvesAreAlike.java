@@ -1,4 +1,3 @@
-package KKPracticeSet.String;
 //https://leetcode.com/problems/determine-if-string-halves-are-alike/description/
 /**
  *You are given a string s of even length. Split this string into two halves of 
