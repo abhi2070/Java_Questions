@@ -1,4 +1,3 @@
-package KKPracticeSet.String;
 //https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/
 /**
  *Given an array of strings patterns and a string word, return the number of strings
