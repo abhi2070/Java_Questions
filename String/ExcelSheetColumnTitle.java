@@ -1,4 +1,3 @@
-package KKPracticeSet.String;
 //https://leetcode.com/problems/excel-sheet-column-title/description/
 /**
  *Given an integer columnNumber, return its corresponding column title as it appears in an Excel sheet.
