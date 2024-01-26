@@ -1,4 +1,3 @@
-package KKPracticeSet.String;
 //https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
 /**
  *Given a string s, reverse the order of characters in each word within a sentence
