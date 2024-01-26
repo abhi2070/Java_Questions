@@ -1,4 +1,3 @@
-package KKPracticeSet.String;
 //https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/
 /**
  *You are given a string s formed by digits and '#'. We want to map s to English lowercase 
